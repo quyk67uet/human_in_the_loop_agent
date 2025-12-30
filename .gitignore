@@ -1,0 +1,49 @@
+# Python & virtual environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.dist-info/
+*.egg
+env/
+venv/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and data
+*.log
+*.sqlite3
+*.db
+
+# Build artifacts
+build/
+Dist/
+*.egg
+*.whl
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Misc
+*.bak
+*.tmp
+
+# Environment variables (API keys)
+.env
+.env.local
